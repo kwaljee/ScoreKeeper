@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="background_for_app">background for app</string>
+    <string name="player_1">Player 1</string>
+    <string name="_0">0</string>
+    <string name="add_points">Add Points</string>
+    <string name="player_2">Player 2</string>
+    <string name="_0b">0</string>
+    <string name="add_points2">Add Points</string>
+    <string name="_0setA">0</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="reset_match">Reset Match</string>
+</resources>
